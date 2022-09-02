@@ -25,6 +25,16 @@ Winning Candidate: Diana DeGette with 272,892 votes and 73.8% of the total votes
 
 
 ## Code 
+This code was written in Python language using Visual Studio Code. 
+![Pypoll results 1](https://user-images.githubusercontent.com/110632671/188043861-26cc3864-849b-49e6-973b-fc36de53267b.png)
+![PyPoll Results 2](https://user-images.githubusercontent.com/110632671/188043914-1d4f14a7-b7a6-4162-96b4-2fb2ca9dc1ea.png)
+![PyPoll results 3](https://user-images.githubusercontent.com/110632671/188043950-a4a16eb9-49d5-49e4-a316-6e8b5b5d8b9a.png)
+![PyPoll results 4](https://user-images.githubusercontent.com/110632671/188044080-471969a7-78a7-4dab-950c-66fe27780efa.png)
+
+## Summary 
+ 
+ The analsyis ran for this election has proven to be an efficient method for tallying votes, pulling percentages and showcasing winners based on the popular vote. Tallying votes has never been easier! This code could easily be modified to showcase the same kind of results for local and state elections. It could also be altered to show results based on electorial votes for presidential elections. The possibilities are endless. 
+
 
 
 
